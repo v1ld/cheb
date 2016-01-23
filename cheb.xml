@@ -136,7 +136,7 @@
     <text>I feel something is very wrong.</text>
   </string>
   <string id="cheb_busy_0">
-    <text>Oh, I wish I had something interesting to tell you, but... forgotten. I'll have remembered in five minutes.</text>
+    <text>Oh, I wish I had something interesting to tell you, but... I've forgotten. I'll remember it in five minutes.</text>
   </string>
   <string id="cheb_busy_1">
     <text>Good.</text>
@@ -145,22 +145,22 @@
     <text>[...go ahead...]</text>
   </string>
   <string id="cheb_story_empty">
-    <text>Something made me forget all the stories... Oh, you should not bother with it.</text>
+    <text>Something made me forget all the stories... Oh, you shouldn't bother.</text>
   </string>
   <string id="cheb_story1_1">
-    <text>Once upon a time two Stalkers went togeher to raid for loot and stumbled upon a very valuable artifact. They immediately rushed to it, even bumping their foreheads in their haste! But there was only one of the artifact, and two of our friends: it was necessary to seek a solution. They argued again and again, but could not agree. Thought and thought, but to no avail. The first wanted to sell the finding and split the money, the other wanted to keep such a precious artifacts for himself, and repay the other with a part of his own loot.</text>
+    <text>Once upon a time two Stalkers went to raid for loot together and stumbled upon a very valuable artifact. They immediately rushed to it, bumping their foreheads in their haste! But there was only one artifact and two friends: they needed a solution. They argued again and again, but could not agree. Thought and thought, but to no avail. The first wanted to sell the artifact and split the money, the other wanted to keep such a precious artifact for himself and repay the other with a part of his own loot.</text>
   </string>
   <string id="cheb_story1_2">
-    <text>They argued all day, then someone came by and advised them to refer to Zacharie the Forester, who lived alone in the Hollow. The old man was known among his brethren Stalkers for his wisdom and the fairness of the decisions he made. The friends went to him. They explained the reason for their dispute and he answered them: "The Zone made you quarrel, She shall reconcile you. Take this thing that you found and put it on the rotten stump that sticks out just behind my hut."</text>
+    <text>They argued all day until someone came by and advised them to talk to Zacharie the Forester, who lived alone in the Hollow. The old man was known to his fellow Stalkers for his wisdom and the fairness of his decisions. The friends went to him. They explained the reason for their dispute and he answered them: "The Zone made you quarrel, She shall reconcile you. Take this thing that you found and put it on the rotten stump just behind my hut."</text>
   </string>
   <string id="cheb_story1_3">
-    <text>"Cover it with the old bucket that is lying there and wait for three hours. then take a look under the bucket. If the artifact turned blue, the first of you shall have it, and if it turned red - the second." The Stalkers went to Zacharie's garden, found the stump, put on their finding, covered it with the bucket, and sat. Waiting an hour..., two..., three... Our friends nerves started to surrender to the pull of the half-a-million worth artifact! Initially the first of them started grumbling stuff at the second...</text>
+    <text>"Cover it with the old bucket that is lying there and wait for three hours, then take a look under the bucket. If the artifact turns blue, the first of you shall have it, and if it turns red, the second." The Stalkers went to Zacharie's garden, found the stump and put the artifact on it, covered the artifact with the bucket, and sat to wait. After waiting one hour, then two, then three, our friend's nerves started to surrender to the pull of the half-a-million ruble artifact! The first of them started to grumble at the second...</text>
   </string>
   <string id="cheb_story1_4">
-    <text>It went on and on and finally the second snapped, and soon there they were, yelling at each other, curses and good old russian obscenities. Both grabbed their knives and stopped, waiting to see who of them would be the first to attack. Suddenly, both noticed that a strange smell was emanating from the bucket. One of the former friends cautiously raised its edge and both saw on the stump, instead of their artifact there was nothing but the ordinary pile of cow dung, and, judging by the smell, pretty fresh.</text>
+    <text>It went on and on and finally the second snapped and soon there they were, yelling at each other - curses and good old Russian obscenities. They both grabbed their knives, then stopped, waiting to see who would be the first to attack. Suddenly, both noticed that a strange smell was coming from the bucket. One of the former friends cautiously raised its edge and both saw that on the stump, instead of their artifact, there was nothing but an ordinary pile of cow dung.  Judging by the smell, it was pretty fresh.</text>
   </string>
   <string id="cheb_story1_5">
-    <text>Both Stalkers just lost it and, upon coming to their senses a little, then immediately rushed for Zacharie. The old man looked at the stump and told them: "It might not be obvious, but that bucket of mine is anomalous. It revealed to you the secret your artifact had! And to think you were ready to get killed for it..." With these words, the Forester spat juicily onto the stump and went into his hut. What happened to our heroes is unknown, but I do know that nobody found this artifact ever after.</text>
+    <text>The two Stalkers lost it for a little while until they finally came to their senses, when they immediately rushed to Zacharie. The old man looked at the stump and told them, "It might not be obvious, but that bucket of mine is anomalous. It revealed to you the secret of the artifact! And to think you were ready to get killed for it..." With these words, the Forester spat juicily onto the stump and went into his hut. What happened to our heroes is unknown, but I do know that nobody ever found this artifact again.</text>
   </string>
   <string id="cheb_story1_ok">
     <text>Interesting.</text>
