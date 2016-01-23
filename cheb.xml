@@ -43,7 +43,7 @@
     <text>Good.</text>
   </string>
   <string id="cheb_1_7_0">
-    <text>Thank you, you really are a good guy! Do you know what we should do? We have to go to a Stalker called Tail and ask him about Kolya. If you wonder why we should go see him first, it's because he's Kolya's friend. I enchanted your PDA so that it now shows where approximately to search for Tail.</text>
+    <text>Thank you, you really are a good guy! Do you know what we should do? We have to go to a Stalker called Tail and ask him about Kolya. If you wonder why we should go see him first, it's because he's Kolya's friend. I've updated your PDA so that it now shows roughly where we may find Tail.</text>
   </string>
   <string id="cheb_1_7_1">
     <text>Well, that's a lead.</text>
@@ -55,10 +55,10 @@
     <text>What are you doing here? Who are you?</text>
   </string>
   <string id="cheb_2_1_2">
-    <text>Remind me, what should I do</text>
+    <text>Remind me, what should I do?</text>
   </string>
   <string id="cheb_2_1_3">
-    <text>Do you know about something interesting?</text>
+    <text>Do you know something interesting?</text>
   </string>
   <string id="cheb_2_1_4">
     <text>I have a problem with your request.</text>
@@ -67,13 +67,13 @@
     <text>Don't you have to eat?</text>
   </string>
   <string id="cheb_2_2_0">
-    <text>I don't know who, or what, I am. But since I'm aware of myself then I must be someone, not something. And I don't remember where I come from, but I do remember something else; the place I appeared, called "Hospital". For me to appear, someone must have made a strong wish. My friend took me there and made a very very strong wish, and then I appeared. One day, my friend fell asleep, and someone all big and grown-up came and took me with him. It was Nikolai - uncle Kolya. He came to this area and hid me there.</text>
+    <text>I don't know who or what I am. But since I'm aware of myself I must be someone, not something. I don't remember where I come from, but I do remember something: the place I appeared is called "Hospital". Someone must have made a strong wish for me to appear. My friend went there and made a very, very strong wish and then I appeared. One day my friend fell asleep and someone all big and grown-up came and took me with him. It was Nikolai - Uncle Kolya. He came to this area and hid me there.</text>
   </string>
   <string id="cheb_2_2_1">
     <text>Here's how.</text>
   </string>
   <string id="cheb_2_3_1_0">
-    <text>We should go to the bar and talk to the Stalker Tail. He'll tell us about Kolya and it will be easier to find him.</text>
+    <text>We should go to the bar and talk to the Stalker named Tail. He'll tell us about Kolya and it will be easier to find him.</text>
   </string>
    <string id="cheb_2_3_1_0_1">
     <text>Tail said Kolya went to a place called City-32. Let's look for this place.</text>
@@ -85,16 +85,16 @@
     <text>I can provide advice, I can tell a story, I can even come up with something myself.</text>
   </string>
   <string id="cheb_2_4_1">
-    <text>From whence did you learn all that?</text>
+    <text>Where did you learn all that?</text>
   </string>
   <string id="cheb_2_4a_0">
-    <text>I've laid in the Zone for a long time and read the thoughts of Stalkers who were passing by. What do you say?</text>
+    <text>I've laid in the Zone a long time and read the thoughts of Stalkers passing by. What do you say?</text>
   </string>
   <string id="cheb_2_4a_0_guid">
-    <text>I've laid in the Zone for a long time and read the thoughts of Stalkers who were passing by. Maybe you need advice?</text>
+    <text>I've laid in the Zone a long time and read the thoughts of Stalkers passing by. Maybe you need advice?</text>
   </string>
   <string id="cheb_2_4a_0_no_talk">
-    <text>I've laid in the Zone for a long time and read the thoughts of Stalkers who were passing by. Oh, I wish I had something interesting to tell you, but... forgotten. I'll have remembered in five minutes.</text>
+    <text>I've laid in the Zone a long time and read the thoughts of Stalkers passing by. Oh, I wish I had something interesting to tell you, but... I've forgotten. I'll remember it in five minutes.</text>
   </string>
   <string id="cheb_2_4a_5_remember">
     <text>Well, remember.</text>
@@ -106,7 +106,7 @@
     <text>Tell a story.</text>
   </string>
   <string id="cheb_2_4a_3">
-    <text>How much till the next blowout?</text>
+    <text>How long till the next blowout?</text>
   </string>
   <string id="cheb_2_4a_4">
     <text>Where can I find a good artifact?</text>
@@ -118,22 +118,22 @@
     <text>Thanks for the advice.</text>
   </string>
   <string id="cheb_guidance_1">
-    <text>If you meet an enemy in the Zone, do not rush to shoot - first make sure that it is really your enemy. Some mercenaries, soldiers, or even bandits will sometimes make peace with loners if they need help.</text>
+    <text>If you meet an enemy in the Zone, do not rush to shoot - first make sure that it really is your enemy. Some mercenaries, soldiers, or even bandits will sometimes make peace with loners if they need help.</text>
   </string>
   <string id="cheb_guidance_2">
-    <text>Sometimes in the Zone you'll find old safes, locked with combination locks. It is not always possible to break them open or hack them, but if you do you'll often find interesting stuff. If you encounter such a safe, remember the following.\n1) The code for each of them consists of no more than 4 or 6 digits.\n2) The numbers on the wheel - it's the regular series of number from 0 to 9.\n3)Use logical clues for the selection of the code.</text>
+    <text>Sometimes in the Zone you'll find old safes, locked with combination locks. It is not always possible to break them open or hack them, but if you do you'll often find interesting stuff. If you encounter such a safe, remember the following.\n1) Their code consists of no more than 4 or 6 digits.\n2) The numbers on the wheel - it's the regular numbers from 0 to 9.\n3)Use logical clues to figure out the code.</text>
   </string>
   <string id="cheb_guidance_3">
-    <text>Some artifacts do not have properties, either positive or negative. However, many of them cause a very high interest of scientists, so do not rush to sell such "useless" looking artifacts: maybe someone will pay a lot for those.</text>
+    <text>Some artifacts do not have properties, either positive or negative. However, many of them are still of very high interest to scientists, so do not rush to sell such "useless" looking artifacts: maybe someone else will pay a lot more for them.</text>
   </string>
   <string id="cheb_guidance_4">
-    <text>Some artifacts are invisible to the naked eye. You have to extract them using those gizmos -forgot how they're called. They're peculiar in the sense that they are born strictly in certain places and at varying intervals.</text>
+    <text>Some artifacts are invisible to the naked eye. You have to extract them using those gizmos - I forget what they're called. They're peculiar in the sense that they are created only in certain places and at varying intervals.</text>
   </string>
   <string id="cheb_guidance_5">
-    <text>Sometimes, instead of valuable loot you might find some book or manuscript. I advise you to think twice before throwing it away or selling it. Even if it sounds ridiculous, among Stalkers you may find some to whom these things are useful. In return, they won't mind sharing valuable stuff, such as interesting intel.</text>
+    <text>Sometimes, instead of valuable loot you might find a book or manuscript. I advise you to think twice before throwing it away or selling it. Even if it sounds ridiculous, you may find some to whom these things are useful among the Stalkers. They may not mind sharing valuable stuff in return, such as interesting intel.</text>
   </string>
   <string id="cheb_guidance_empty">
-    <text>I feel that something is very wrong.</text>
+    <text>I feel something is very wrong.</text>
   </string>
   <string id="cheb_busy_0">
     <text>Oh, I wish I had something interesting to tell you, but... forgotten. I'll have remembered in five minutes.</text>
