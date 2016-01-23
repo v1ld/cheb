@@ -10,7 +10,7 @@
     <text>Hi.</text>
   </string>
   <string id="cheb_1_2_0">
-    <text>You're fine. Help me, please, uncle... I - I'm not just a toy, I'm an assistant, I'm helping someone. I have to find him. It's uncle Kolya, he's somewhere in the Zone. Please...</text>
+    <text>You're fine. Help me, please, uncle... I - I'm not just a toy. I'm an assistant, I'm helping someone and I have to find him. It's Uncle Kolya, he's somewhere in the Zone. Please...</text>
   </string>
   <string id="cheb_1_2_1">
     <text>I get it, it's a robot! Interesting contraption.</text>
@@ -19,34 +19,34 @@
     <text>Who is he?</text>
   </string>
   <string id="cheb_1_3_0">
-    <text>I knew I'd find someone, hurray! Look, are you a good guy or a bad guy? If you're bad, throw me back, and if you're good, help me. Will you help me?</text>
+    <text>I knew I'd find someone, hurray! Look, are you a good guy or a bad guy? If you're bad, throw me back where you found me, and if you're good, please help me. Will you help me?</text>
   </string>
   <string id="cheb_1_3_1">
     <text>I'll help. What should I do?</text>
   </string>
   <string id="cheb_1_4_0">
-    <text>Please, do not throw me away! I'll die here, if no one helps me, and along with me, my friend who needs help!</text>
+    <text>Please, do not throw me away! I'll die here if no one helps me and along with me, my friend who needs help!</text>
   </string>
   <string id="cheb_1_4_1">
     <text>Madness.</text>
   </string>
   <string id="cheb_1_5_0">
-    <text>Uncle Kolya, afraid he would be robbed, hid me there 6 months ago and went away on business. And then disappeared. More recently, I got slung into the anomaly where you found me during a blowout. We need to find Kolya, I have to know what happened to him. We'll have to follow in his footsteps, and for that I can show you the way.</text>
+    <text>Uncle Kolya, afraid he would be robbed, hid me there 6 months ago and went away on business. And then he disappeared. More recently, I got slung into the anomaly where you found me during a blowout. We need to find Uncle Kolya, I have to know what happened to him. We'll have to follow in his footsteps and for that I can show you the way.</text>
   </string>
   <string id="cheb_1_5_1">
     <text>How will you do that?</text>
   </string>
   <string id="cheb_1_6_0">
-    <text>I can recognize places, I feel them. When we get close to the place, I'll give you a signal. So what do you think? Will you help me, kind Stalker?</text>
+    <text>I can recognize places, I can feel them. When we get close to the right place, I'll give you a signal. So what do you think? Will you help me, kind Stalker?</text>
   </string>
   <string id="cheb_1_6_1">
     <text>Good.</text>
   </string>
   <string id="cheb_1_7_0">
-    <text>Thank you, you really are a good guy! Do you know what we should do? We have to go to a Stalker called Tail and ask him about Kolya. If you wonder why we should go see him first, it's because he's Kolya's friend. I've updated your PDA so that it now shows roughly where we may find Tail.</text>
+    <text>Thank you, you really are a good guy! Do you know what we should do? We should go to a Stalker named Tail and ask him about Uncle Kolya. If you wonder why we should go see him first, it's because he's Uncle Kolya's friend. I've enchanted your PDA so that it now shows roughly where we may find Tail.</text>
   </string>
   <string id="cheb_1_7_1">
-    <text>Well, that's a lead.</text>
+    <text>Well, that's a useful lead.</text>
   </string>
   <string id="cheb_2_1_0">
     <text>Hi master, what did you want?</text>
@@ -67,16 +67,16 @@
     <text>Don't you have to eat?</text>
   </string>
   <string id="cheb_2_2_0">
-    <text>I don't know who or what I am. But since I'm aware of myself I must be someone, not something. I don't remember where I come from, but I do remember something: the place I appeared is called "Hospital". Someone must have made a strong wish for me to appear. My friend went there and made a very, very strong wish and then I appeared. One day my friend fell asleep and someone all big and grown-up came and took me with him. It was Nikolai - Uncle Kolya. He came to this area and hid me there.</text>
+    <text>I don't know who or what I am. Since I'm aware of myself I must be someone, not something. I don't remember where I come from, but I do remember something: the place I first appeared is called "Hospital". Someone must have made a strong wish for me to appear. My friend went there and made a very, very strong wish and then I appeared. But one day my friend fell asleep and someone all big and grown-up came and took me with him. It was Nikolai - Uncle Kolya. He came to this area and hid me near where you found me.</text>
   </string>
   <string id="cheb_2_2_1">
     <text>Here's how.</text>
   </string>
   <string id="cheb_2_3_1_0">
-    <text>We should go to the bar and talk to the Stalker named Tail. He'll tell us about Kolya and it will be easier to find him.</text>
+    <text>We should go to the bar and talk to the Stalker named Tail. He'll tell us about Uncle Kolya and it will be easier to find him.</text>
   </string>
    <string id="cheb_2_3_1_0_1">
-    <text>Tail said Kolya went to a place called City-32. Let's look for this place.</text>
+    <text>Tail said Uncle Kolya went to a place called City-32. Let's look for this place.</text>
   </string>
   <string id="cheb_2_3_1_1">
     <text>Got it.</text>
@@ -118,13 +118,13 @@
     <text>Thanks for the advice.</text>
   </string>
   <string id="cheb_guidance_1">
-    <text>If you meet an enemy in the Zone, do not rush to shoot - first make sure that it really is your enemy. Some mercenaries, soldiers, or even bandits will sometimes make peace with loners if they need help.</text>
+    <text>If you meet an enemy in the Zone, do not rush to shoot - first make sure that they really are your enemy. Some mercenaries, soldiers, or even bandits will sometimes make peace with loners if they need help.</text>
   </string>
   <string id="cheb_guidance_2">
-    <text>Sometimes in the Zone you'll find old safes, locked with combination locks. It is not always possible to break them open or hack them, but if you do you'll often find interesting stuff. If you encounter such a safe, remember the following.\n1) Their code consists of no more than 4 or 6 digits.\n2) The numbers on the wheel - it's the regular numbers from 0 to 9.\n3)Use logical clues to figure out the code.</text>
+    <text>Sometimes in the Zone you'll find old safes, locked with combination locks. It is not always possible to break them open or hack them, but if you do you'll often find interesting stuff. If you encounter such a safe, remember the following.\n1) Their code consists of no more than 4 or 6 digits.\n2) The numbers on the wheel - it's the regular numbers from 0 to 9.\n3)Use logical reasoning to figure out the code.</text>
   </string>
   <string id="cheb_guidance_3">
-    <text>Some artifacts do not have properties, either positive or negative. However, many of them are still of very high interest to scientists, so do not rush to sell such "useless" looking artifacts: maybe someone else will pay a lot more for them.</text>
+    <text>Some artifacts do not have any properties, either positive or negative. However, many of them are still of very high interest to scientists, so do not rush to sell such "useless" looking artifacts: maybe someone else will pay a lot more for them.</text>
   </string>
   <string id="cheb_guidance_4">
     <text>Some artifacts are invisible to the naked eye. You have to extract them using those gizmos - I forget what they're called. They're peculiar in the sense that they are created only in certain places and at varying intervals.</text>
