@@ -43,7 +43,7 @@
     <text>What are you working on?</text>
   </string>
   <string id="cheb_2_5_btn_1">
-    <text>"The old house Mystery"</text>
+    <text>"The mystery of the old house"</text>
   </string>
   <string id="cheb_2_5_btn_2">
     <text>"A strange anomaly"</text>
@@ -61,7 +61,7 @@
     <text>"The conflict at the sawmill"</text>
   </string>
   <string id="cheb_2_5_btn_7">
-    <text>"Fleas hideout"</text>
+    <text>"Flea's hideout"</text>
   </string>
   <string id="cheb_2_5_btn_8">
     <text>"The trap at the gas station"</text>
@@ -70,7 +70,7 @@
     <text>The issue of Immortality - p. 1</text>
   </string>
   <string id="cheb_2_5_1_0">
-    <text>A bad-bad person! Very bad! He has killed the good person, calamity! To the good person it is bad, he wishes to sleep... Help it to fall asleep, I can hear, how he is angry, he grumbles, he shouts! Find the four parts of the good person here, in the court yard. They're hidden very-very well: on a roof, on a tree, in a car and in some electronic contraption.</text>
+    <text>A bad, bad person! Very bad! He killed the good person, what a calamity! To the good person it is bad, he wishes to sleep... Help it to fall asleep, I can hear, how he is angry, he grumbles, he shouts! Find the four parts of the good person here in the court yard. They're hidden very, very well: on a roof, in a tree, in a car and in some electronic contraption.</text>
   </string>
   <string id="cheb_2_5_1_1">
     <text>Clear.</text>
@@ -79,57 +79,57 @@
     <text>Look around, do you see portals? You need to find the proper sequence of four portals.</text>
   </string>
   <string id="cheb_2_5_2_1">
-    <text>Yeah, I'm on it...</text>
+    <text>Yeah, I'm on it.</text>
   </string>
   <string id="cheb_2_5_3_0">
-    <text>The inscriptions on the safe, they mean something abbreviated. What is it? And could it be, next to the inscriptions stand numerals? They should be only four. By the way, remember: the divisions on the wheel of the safe account for figures from 0 up to 9, it's necessary to make a code or cipher of them. Got it?</text>
+    <text>The inscriptions on the safe mean something abbreviated. What is it? And are those numbers next to the inscriptions? There should be only four. Keep in mind, by the way: the divisions on the wheel of the safe are the numbers from 0 to 9, it's necessary to make a code or cipher out of them. Got it?</text>
   </string>
   <string id="cheb_2_5_3_1">
     <text>Yes.</text>
   </string>
   <string id="cheb_2_5_4_0">
-    <text>Oh, what a nasty sound! We should switch it off, and the person in the tower will die! The sound comes from the box with the buttons. First press all the buttons from top to bottom, then bottom left. Then again from top to bottom.</text>
+    <text>Oh, what a nasty sound! We should switch it off and the person in the tower will die! The sound comes from the box with the buttons. First press all the buttons from top to bottom, then bottom left. Then again from top to bottom.</text>
   </string>
   <string id="cheb_2_5_4_1">
     <text>Understood.</text>
   </string>
   <string id="cheb_2_5_5_0">
-    <text>Master, I know, what to do! Try to find a portal, which will lead you in this lodge.</text>
+    <text>Master, I know what to do! Try to find a portal, which will lead you to this lodge.</text>
   </string>
   <string id="cheb_2_5_5_1">
     <text>Clear.</text>
   </string>
   <string id="cheb_2_5_6_0">
-    <text>Oh, once again thre are bad people! So there is a lot of them, they're more, than good people... The bad peoples want to trick the good peoples, they will suggest peace. But as soon as the good people will agree, they can die.</text>
+    <text>Oh, once again there are bad people! So there are a lot of them, they're more than the good people. The bad people want to trick the good people, they will suggest peace. But as soon as the good people agree, they will be killed.</text>
   </string>
   <string id="cheb_2_5_6_1">
-    <text>I will take a note.</text>
+    <text>I will keep that in mind.</text>
   </string>
   <string id="cheb_2_5_7_0">
-    <text>The small person has lost a bag and is now punished for it, he is in a corner... What to do? We have to find the bag and all will be well. It is somewhere nearby, under a shrub near a fence... Don't forget to read, what you find in it!</text>
+    <text>The small person has lost a bag and is now being punished for it, he is sitting in a corner. What to do? We have to find the bag and all will be well. It is somewhere nearby, under a shrub near a fence. Don't forget to read what you find in it!</text>
   </string>
   <string id="cheb_2_5_7_1">
     <text>Good.</text>
   </string>
   <string id="cheb_2_5_8_0">
-    <text>Oh, where is it we are? That is a terrible room, people died here, they died long ago... Here is uncomfortable. And to leave is impossible - something wont let us. We need to open that old safe and to find in one good thing which will help. The code of the safe? We shall give it some thoughts. Earlier, a long time ago, people brought fuel here for transports. Fuel was designated by numbers... These numbers are written in colums! I hope, that you have remembered them, master? Try to enter these numbers. The code is four-digits.</text>
+    <text>Oh, where are we? This is a terrible room, people died here, long ago. It's uncomfortable here. And leaving is impossible - something won't let us. We need to open that old safe and find in it a good thing which will help us. The code to the safe? We shall give it some thought. Earlier, a long time ago, people brought fuel here for the transports. Fuel was designated by numbers. These numbers are written in columns! I hope you remember them, master? Try to enter these numbers. The code is four digits long.</text>
   </string>
   <string id="cheb_2_5_8_1">
     <text>That's clear.</text>
   </string>
   <string id="cheb_2_5_9_muten">
-    <text>My dead Uncle told me, that the Cobblestone should be looked for around great metallic designs. As those in the Garbage.</text>
+    <text>My dead Uncle told me that the Cobblestone should be looked for around great metallic designs. Like those in the Garbage.</text>
   </string>
   <string id="cheb_2_5_9_firefly">
-    <text>"For the Firefly it is necessary to wander on water, or during a rain. Brrr, I do not like to get wet.</text>
+    <text>"For the Firefly, you have to search around water or during a storm. Brrr, I do not like to get wet.</text>
   </string>
   <string id="cheb_2_5_9_chameleon">
-    <text>The Chameleon can only be found during blowouts. Maybe we wont find it, heh?</text>
+    <text>The Chameleon can only be found during blowouts. Maybe we wont find it, huh?</text>
   </string>
   <string id="cheb_2_5_9_common">
-    <text>All the things that you have found, we need to bring to my lifeless uncle.</text>
+    <text>We need to bring all the things that you have found to my lifeless uncle.</text>
   </string>
   <string id="cheb_2_5_9_1">
-    <text>Thanks for your help</text>
+    <text>Thanks for your help.</text>
   </string>
 </string_table>
